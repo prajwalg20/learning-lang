@@ -1,1 +1,1 @@
-# learning-lang
+# My-Quizzy-Game
